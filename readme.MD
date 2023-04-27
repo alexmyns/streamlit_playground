@@ -1,6 +1,6 @@
-#Playground for SQL learners with chinook dataset
+# Playground for SQL learners with chinook dataset
 
 
-https://alikhanmin-sql-playground-main-15fym7.streamlit.app/
+- [Playground](https://alikhanmin-sql-playground-main-15fym7.streamlit.app/) website link
 
 
